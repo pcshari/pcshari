@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pcshari1234@gmail.com**
 
-- ⚡ Game On **I watch sports like I code: with excitement, unexpected bugs, and a strong belief that defense is just as crucial as offense—especially in securing my code!**
+- ⚡ **Game On** I watch sports like I code: with excitement, unexpected bugs, and a strong belief that defense is just as crucial as offense—especially in securing my code!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
