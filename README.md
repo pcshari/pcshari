@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **INVISIO**
 
-- 🌱 I’m currently learning **Security Software Development**
+- 🌱 I’m currently learning **Cloud Computing and Security**
 
 - 👯 I’m looking to collaborate on **projects related to cybersecurity**
 
