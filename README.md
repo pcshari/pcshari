@@ -2,9 +2,17 @@
 
 ![Banner](https://media.licdn.com/dms/image/v2/D5616AQFdP0vcdkR3tQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719347170713?e=1756944000&v=beta&t=yDaFM5Ix2Z3dzYGoxJoX98UvZRsee7GW0gHZpQhh2dM)
 
-<h2 align="center"><strong>💻⚔️ CODE AND DEFEND</strong></h2>
+
+<hr>
+
+<h2 align="center">
+  <span style="display:inline-block; border-bottom: 1px solid #444; width: 100%; line-height: 0.1em; margin: 10px 0 20px;">
+    <span style="background:#0d1117; padding:0 10px; font-weight:bold;">💻⚔️ CODE AND DEFEND</span>
+  </span>
+</h2>
 
 ---
+
 
 🎓 I'm a final-year B.Tech student pursuing **Computer Science and Engineering (Cyber Security)** at **Manipal Institute of Technology, Bangalore**.  
 🔐 I'm passionate about **Cybersecurity**, with a strong interest in building secure systems. 
