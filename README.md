@@ -2,6 +2,10 @@
 
 ![Banner](https://media.licdn.com/dms/image/v2/D5616AQFdP0vcdkR3tQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719347170713?e=1756944000&v=beta&t=yDaFM5Ix2Z3dzYGoxJoX98UvZRsee7GW0gHZpQhh2dM)
 
+<h2 align="center"><strong>💻⚔️ CODE AND DEFEND</strong></h2>
+
+---
+
 🎓 I'm a final-year B.Tech student pursuing **Computer Science and Engineering (Cyber Security)** at **Manipal Institute of Technology, Bangalore**.  
 🔐 I'm passionate about **Cybersecurity**, with a strong interest in building secure systems. 
 🛡️ I'm currently exploring how **AI and ML** can be used to enhance threat detection and prevention.  
@@ -38,14 +42,16 @@
 
 ![Hari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pcshari&show_icons=true&theme=radical)
 
-### 🔝 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcshari&layout=compact&theme=radical)
-
 ---
 
 ### 📫 Let's Connect
 - 💼 LinkedIn: [linkedin.com/in/hari-krishna-pcs](https://linkedin.com/in/hari-krishna-pcs)  
 - 📧 Email: pcshari1234@gmail.com
+
+---
+
+### 👁️ Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=pcshari&style=flat-square&color=blue)
 
 ---
