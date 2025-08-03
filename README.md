@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Hari Krishna PCS!
+# Hi there 👋, Welcome!
 
 ![Banner](https://media.licdn.com/dms/image/v2/D5616AQFdP0vcdkR3tQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719347170713?e=1756944000&v=beta&t=yDaFM5Ix2Z3dzYGoxJoX98UvZRsee7GW0gHZpQhh2dM)
 
@@ -28,9 +28,7 @@
 ---
 
 ### 💡 Interests
-- Cybersecurity & Network Defense  
 - Machine Learning in Security  
-- Cryptography & Secure Systems  
 - Sports Enthusiast 🏏  
 - Geopolitics & World Affairs 🌍  
 
@@ -39,6 +37,10 @@
 ### 📈 GitHub Stats
 
 ![Hari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pcshari&show_icons=true&theme=radical)
+
+### 🔝 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcshari&layout=compact&theme=radical)
 
 ---
 
